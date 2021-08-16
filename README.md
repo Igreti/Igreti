@@ -5,6 +5,8 @@
   <a href="https://discord.com/channels/@me/852574336912195596">Discord</a>
 </p>
 
+<h4 align="center">I'm begginer frontend developer.</h4>
+
 ---
 
 **Languages and Tools:**

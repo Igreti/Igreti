@@ -23,9 +23,9 @@
 ---
 
 
-**Discord bots**
+**My porojects**
 
-* [vave](https://vave.pro/)
+* [Fluen](https://nove.team/)
 
 ---
 
